@@ -1,2 +1,2 @@
-# web3-learning-log-
+# web3-learning-log
 My Web3 research, testnet notes, and learning progress. 
